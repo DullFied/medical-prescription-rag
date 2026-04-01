@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+env/
+venv/
+.conda/
+
+# Data (optional but recommended)
+data/raw_images/
+data/structured_json/
+
+# Vector store
+vector_store/
+
+# OS
+.DS_Store
+Thumbs.db

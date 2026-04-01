@@ -1,0 +1,8 @@
+opencv-python
+pytesseract
+sentence-transformers
+faiss-cpu
+google-generativeai
+python-dotenv
+numpy
+Pillow
